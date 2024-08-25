@@ -8,7 +8,7 @@ A simple match-3 minigame built in Unity by PlayCompile. Created live on stream 
 ![Gameplay Screenshot](Screenshot.png)
 
 To simply play the game, download from the Releases tab!
-- Here: https://github.com/PlayCompile/HungryPaimon/releases/tag/game
+- Here: https://github.com/PlayCompile/HungryPaimon/releases/tag/releases
 
 ## Features
 - Randomly generated game board with potential matches
